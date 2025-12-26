@@ -1,0 +1,180 @@
+@import "tailwindcss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+
+/* card css */
+
+/* h2,h3,h4,p{
+  color: #111;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+.parent{
+  min-height: 100vh;
+  width: 100%;
+  background-color: #111;
+  padding: 40px;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 28px;
+  place-items: center;
+}
+
+
+@media (max-width: 1024px) {
+  .parent {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+
+@media (max-width: 600px) {
+  .parent {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.card{
+  width: 100%;
+  max-width: 360px;
+  min-height: 420px;
+  background-color: #fff;
+  color: black;
+  border-radius: 30px;
+  padding: 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card .top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.top img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid #dadada;
+  padding: 3px;
+}
+
+.top button{
+  display: flex;
+  align-items: center;
+  border: 1px solid #dadada;
+  padding: 5px 10px;
+  color: #b1b1b1;
+  font-size: 13px;
+  border-radius: 5px;
+  gap: 4px;
+  background-color: transparent;
+}
+
+.center h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.center h3 span{
+  font-size: 10px;
+  color: #8b8b8b;
+}
+
+.center h2{
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.center .tag{
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.center .tag h4{
+  font-size: 12px;
+  background-color: #dadada;
+  color: #111;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+
+.bottom{
+  display: flex;
+  justify-content: space-between;
+  border-top: 1.5px solid #b7b7b7;
+  padding-top: 15px;
+  margin-top: 20px;
+}
+
+.bottom button{
+  background-color: #000;
+  color: #fff;
+  padding: 7px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.bottom h3{
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.bottom p{
+  font-size: 13px;
+  color: #8b8b8b;
+}
+ */
+
+
+
+ /* presentation css */
+
+/* #right::-webkit-scrollbar{
+  display: none;
+} */
+
+
+/* function css */
+
+/* input{
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: gray;
+}
+
+
+button{
+  margin: 10px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  background-color: gray;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+h1{
+  background-color: gainsboro;
+  margin: 20px;
+  padding: 10px 80px;
+  width: fit-content;
+  font-size: 50px;
+  border-radius: 5px;
+  margin-left: 50px;
+
+} */
