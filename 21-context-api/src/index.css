@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+/* .nav{
+  display: flex;
+  background-color: lightseagreen;
+  justify-content: space-between;
+  padding: 10px 20px;
+  align-items: center;
+} */
+
+.light{
+  background-color: lightseagreen;
+  justify-content: space-between;
+  padding: 10px 20px;
+  align-items: center;
+}
+
+.dark{
+  background-color: darkseagreen;
+  justify-content: space-between;
+  padding: 10px 20px;
+  align-items: center;
+}
+
+.nav2{
+  display: flex;
+  gap: 30px;
+}
+
+button{
+  margin: 10px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  background-color: gray;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
